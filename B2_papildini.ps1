@@ -11,6 +11,5 @@ $apturetie = Get-Service |
     Where-Object { $_.Status -eq "Stopped" } |
     Sort-Object Name |
     Select-Object Name, Status
-
-$apturetie | Export-Csv -Path "apturetie.csv" -Encoding utf8
+$apturetie | Export-Csv -Path "$ENV:UserProfile\Documents\apturetie.csv" -Encoding utf8
 
