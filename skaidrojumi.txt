@@ -1,2 +1,2 @@
 J1. Jāparbauda vai ir sakartošāna komanda vai komanda ir vispar pareiza
-J2. jāizmanto komandu " delimiter=";" " lai kolonnas but sakartoti
+J2. Jāizmanto komandu " delimiter=";" " lai kolonnas but sakartoti
